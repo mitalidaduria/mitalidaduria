@@ -7,7 +7,6 @@ I am a **Senior Business Analyst** specializing in scalable data architectures, 
 * **Languages & Core:** SQL, Python, FastAPI, REST APIs, JSON
 * **Data Engineering & Platforms:** Databricks, Snowflake, AWS (S3, ETL), MySQL Workbench, Data Lineage
 * **AI & Frameworks:** Agentic AI (CrewAI, LangChain), RAG Evaluation, GenAI Orchestration
-* **Methodologies:** Agile/Scrum, JIRA, Confluence, BRD/FRD, UAT
 
 ###  Active Open Source & Portfolios
 * **[FinPulse-Market_agent](https://github.com/mitalidaduria/FinPulse-Market_agent)** — Financial market intelligence agent built with Python.
