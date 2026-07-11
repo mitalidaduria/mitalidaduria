@@ -1,4 +1,4 @@
-# Mitali_Daduria
+# MitaliDaduria
 # Hi, I'm Mitali 
 
 I am a **Senior Business Analyst** specializing in scalable data architectures, data governance frameworks, and agentic AI pipelines. I map complex engineering capabilities to strategic enterprise data products.
