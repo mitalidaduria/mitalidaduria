@@ -1,7 +1,7 @@
 # Mitali_Daduria
 # Hi, I'm Mitali 👋
 
-I am a **Senior Technical Business Analyst** specializing in scalable data architectures, data governance frameworks, and agentic AI pipelines. I map complex engineering capabilities to strategic enterprise data products.
+I am a **Senior Business Analyst** specializing in scalable data architectures, data governance frameworks, and agentic AI pipelines. I map complex engineering capabilities to strategic enterprise data products.
 
 ### 🛠️ Core Tech Stack & Competencies
 * **Languages & Core:** SQL, Python, FastAPI, REST APIs, JSON
