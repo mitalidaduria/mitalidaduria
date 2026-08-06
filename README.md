@@ -35,6 +35,6 @@ I focus on building scalable self-service data infrastructure, robust lineage tr
 
 ---
 
-### 📫 Connect & Technical Writing
+###  Connect & Technical Writing
 
 [LinkedIn](https://www.linkedin.com/in/mitalidaduria/) • [Technical Blog](https://medium.com/@daduriamitali)
