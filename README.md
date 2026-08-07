@@ -1,6 +1,6 @@
 # Hi, I'm Mitali 
 
-**Data Platform Architect & AI Systems Specialist** specializing in modern cloud data platforms, enterprise data governance, and production-grade agentic AI systems. 
+**Data Platform Architect & AI Systems ** specializing in modern cloud data platforms, enterprise data governance, and production-grade agentic AI systems. 
 
 I focus on engineering high-throughput AWS data architectures, building scalable self-service infrastructure, robust lineage tracking, and automated decision engines across complex transactional and unstructured domains.
 
