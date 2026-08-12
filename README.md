@@ -1,6 +1,6 @@
 # Hi, I'm Mitali 
 
-**Data Platform Architect & AI Systems ** specializing in modern cloud data platforms, enterprise data governance, and production-grade agentic AI systems. 
+**Data Platform Architect & AI Systems** specializing in modern cloud data platforms, enterprise data governance, and production-grade agentic AI systems. 
 
 I focus on engineering high-throughput AWS data architectures, building scalable self-service infrastructure, robust lineage tracking, and automated decision engines across complex transactional and unstructured domains.
 
@@ -10,10 +10,10 @@ I focus on engineering high-throughput AWS data architectures, building scalable
 
 | Domain | Technologies & Capabilities |
 | :--- | :--- |
-| **Languages & Core** | Python, SQL, Cypher, FastAPI, REST APIs, JSON Schemas |
-| **Data Infrastructure & Cloud** | AWS (S3, Athena, Glue, QuickSight), Databricks (Delta Lake), Apache Airflow, dbt, MySQL, Terraform (IaC) |
+| **Languages & Core** | Python, SQL, FastAPI, REST APIs, JSON Schemas |
+| **Data Infrastructure & Cloud** | AWS (S3, Athena, Glue, QuickSight), Databricks (Delta Lake), Apache Airflow, dbt, MySQL, Terraform (IaC), Neo4j |
 | **AI Systems & Orchestration** | Agentic AI (CrewAI, LangChain), RAG Evaluation, Vector Databases, XGBoost, SHAP, AWS Bedrock / PartyRock |
-| **Data Governance & Quality** | OpenMetadata, OpenDataDiscovery (ODD), Data Contracts, Automated Lineage, Data Quality Frameworks |
+| **Data Governance & Quality** | OpenMetadata, OpenDataDiscovery (ODD), Data Contracts, Automated Lineage, Data Quality Frameworks, Collibra |
 
 ---
 
