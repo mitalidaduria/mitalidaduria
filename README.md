@@ -1,4 +1,4 @@
-# Hi, I'm Mitali 
+# Hi, I'm Mitali                     
 
 **Data Platform Architect & AI Systems** specializing in modern cloud data platforms, enterprise data governance, and production-grade agentic AI systems. 
 
@@ -6,7 +6,7 @@ I focus on engineering high-throughput AWS data architectures, building scalable
 
 ---
 
-###  Technical Ecosystem & Core Competencies
+###  Technical Ecosystem & Core Competencies          
 
 | Domain | Technologies & Capabilities |
 | :--- | :--- |
