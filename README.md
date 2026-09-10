@@ -10,7 +10,7 @@ I focus on engineering high-throughput AWS data architectures, building scalable
 
 | Domain | Technologies & Capabilities |
 | :--- | :--- |
-| **Languages & Core** | Python, SQL, FastAPI, REST APIs, JSON Schemas |
+| **Languages & Core** | PySpark, SQL, FastAPI, REST APIs, JSON Schemas |
 | **Data Infrastructure & Cloud** | AWS (S3, Athena, Glue, QuickSight), Databricks (Delta Lake), Apache Airflow, dbt, MySQL, Terraform (IaC), Neo4j |
 | **AI Systems & Orchestration** | Agentic AI (CrewAI, LangChain), RAG Evaluation, Vector Databases, XGBoost, SHAP, AWS Bedrock / PartyRock |
 | **Data Governance & Quality** | OpenMetadata, OpenDataDiscovery (ODD), Data Contracts, Automated Lineage, Data Quality Frameworks, Collibra |
